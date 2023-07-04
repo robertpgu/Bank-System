@@ -19,3 +19,4 @@ My target was to build an application from scratch which will contain backend im
 Use an HTTP Client (Rest Template) to call an external api to fetch the exchange rate.
 
 You have to think of a way to design the database and apis. Feel free to create/add any validation you like in backend. You should prepare also a postman collection which will contain all your created endpoints.
+https://www.youtube.com/watch?v=A-B3iyRjGY8&ab_channel=RobertPodgorencu
